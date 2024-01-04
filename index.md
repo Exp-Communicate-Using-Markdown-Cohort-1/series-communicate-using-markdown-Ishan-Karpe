@@ -3,3 +3,8 @@
 ###### This is an `<h6>` header, which is the smallest
 
 <img alt="Image of Yaktocat" src=https://octodex.github.com/images/yaktocat.png width=400>
+
+<pre>
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+</pre>
